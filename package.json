@@ -1,5 +1,5 @@
 {
-  "name": "date-difference-calculator",
+  "name": "@orafavictor/date-difference-calculator",
   "version": "1.0.0",
   "description": "A library to calculate the time difference between the curretn date and a provided date.",
   "license": "ISC",
