@@ -1,12 +1,23 @@
 {
   "name": "date-difference-calculator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A library to calculate the time difference between the curretn date and a provided date.",
   "license": "ISC",
   "author": "Rafael Victor",
   "type": "commonjs",
   "main": "index.js",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    },
+  "keywords": [
+      "date", 
+      "difference", 
+      "calculator", 
+      "time", 
+      "days", 
+      "hours", 
+      "minutes", 
+      "seconds"
+    ]
 }
